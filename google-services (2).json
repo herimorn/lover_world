@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722741879764",
+    "project_id": "lovers1-dfa34",
+    "storage_bucket": "lovers1-dfa34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722741879764:android:5b670f9942827b24d1ac41",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722741879764-rt1qfhi1dshmnvccs9cjm5r74gqngo55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "d31e167357ba5802fb20cb8ad842a12893d9896c"
+          }
+        },
+        {
+          "client_id": "722741879764-d363rjqunnef05fdckpu1ug46lignb17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5qz-4wqRYjOzTbrbJEMkH7XkTRabGtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722741879764-d363rjqunnef05fdckpu1ug46lignb17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
